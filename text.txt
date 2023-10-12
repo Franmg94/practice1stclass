@@ -1,0 +1,7 @@
+Hello
+most used commands on terminals
+
+cd
+mkdir
+touch
+ls
